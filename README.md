@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teelenon
 - 👀 I’m interested in cyber security and web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ig account@teelenon twitter@teelenon
 
